@@ -34,7 +34,7 @@ bioの@MoriSho17795702という文字とTwitterIDが同じアカウントを見�
 
 loadCredentialsという関数に着目し
 
-この関数のドキュメントを検索すると引数1つ目がパスワードなる。
+この関数のドキュメントを検索すると引数1つ目がパスワードになる。
 
 https://docs.web3j.io/transactions/credentials/#use-walletutils-functionality
 
